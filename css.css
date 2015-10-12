@@ -17,7 +17,6 @@ header > h2{
 }
 header > h1 > a{
 	text-decoration: none;
-	margin-bottom: 5px;
 }
 nav {
 	width: 1000px;
@@ -28,7 +27,7 @@ nav {
 }
 nav > ul{
 	margin: 0 auto;
-	width: 700px;
+	width: 800px;
 	list-style: none;
 	text-align: center;
 	margin-top: 15px;
@@ -76,7 +75,6 @@ nav a{
 	width: 620px;
 	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
 	border: 1px solid #40403F;
-	margin-bottom: 5px;
 }
 aside{
 	float: left;
@@ -89,6 +87,7 @@ footer{
 	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
 	text-align:center;
 	padding:10px;
+	margin-top:15px;
 	
 }
 section{
