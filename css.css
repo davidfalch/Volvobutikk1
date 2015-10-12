@@ -57,9 +57,9 @@ nav > ul  > li:hover > ul {
 	text-decoration: none;
 	list-style: none;
 	position:absolute;
-	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.8);
+	background-color: #DCDEDE;
 	border: 1px solid #cccccc;
-	background-color: #FF3399;
+	
 }
 nav a{
 	text-decoration: none;
