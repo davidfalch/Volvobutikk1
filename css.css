@@ -35,8 +35,8 @@ nav > ul{
 nav > ul > li{
 	float: left;
 	display: block;
-	width: 100px;
-	height: 50px;
+	width: 150px;
+	height: 75px;
 	font-size: 18px;
 	text-align: center;
 	color: #000000;
@@ -47,7 +47,7 @@ nav > ul > li > ul {
 	text-decoration: none;
 	font-size: 18px;
 	width: 350px;
-	height: 50px;
+	height: 75px;
 	text-align: left;
 }
 nav > ul  > li:hover > ul {
