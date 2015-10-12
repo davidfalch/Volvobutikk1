@@ -17,7 +17,6 @@ header > h2{
 }
 header > h1 > a{
 	text-decoration: none;
-	margin-bottom: 5px;
 }
 nav {
 	width: 1000px;
@@ -88,6 +87,7 @@ footer{
 	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
 	text-align:center;
 	padding:10px;
+	margin-top:15px;
 	
 }
 section{
