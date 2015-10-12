@@ -75,13 +75,14 @@ nav a{
 	width: 620px;
 	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
 	border: 1px solid #40403F;
-	margin-left:1px;
+	
 }
 aside{
 	float: left;
 	width: 336px;
 	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
 	border: 1px solid #40403F;
+	margin-left:1px;
 }
 footer{
 	clear: both;
